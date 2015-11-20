@@ -4,12 +4,12 @@
 #
 Name     : libibumad
 Version  : 1.3.10.2
-Release  : 1
+Release  : 2
 URL      : https://www.openfabrics.org/downloads/management/libibumad-1.3.10.2.tar.gz
 Source0  : https://www.openfabrics.org/downloads/management/libibumad-1.3.10.2.tar.gz
 Summary  : OpenFabrics Alliance InfiniBand umad (user MAD) library
 Group    : Development/Tools
-License  : GPL-2.0
+License  : BSD-2-Clause GPL-2.0
 Requires: libibumad-lib
 Requires: libibumad-doc
 
